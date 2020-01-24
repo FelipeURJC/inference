@@ -14,7 +14,7 @@ git clone https://github.com/FelipeURJC/inference.git
 Once you have cloned the repo, be sure to get always the last updated version
 
 ```bash
-git clone https://github.com/FelipeURJC/inference.git
+git pull
 ```
 
 Then go to the repo directory and launch a `jupyter notebook`
@@ -22,5 +22,3 @@ Then go to the repo directory and launch a `jupyter notebook`
 ```bash
 jupyter notebook
 ```
-
-
