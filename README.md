@@ -1,5 +1,5 @@
 # Inference
-Lecture materials for Inference course (Biomedical Engineering Degree @URJC)
+Lecture materials for Inference course (Biomedical Engineering Degree @URJC). This material is also available at [Aula Virtual](https://www.aulavirtual.urjc.es)
 
 ## Clone the repository
 
